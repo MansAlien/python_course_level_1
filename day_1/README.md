@@ -4,7 +4,7 @@ Welcome to Day 1 of Python Level 1! Today, we will cover the basics of Python pr
 
 ## Lesson Outline 🗒️
 
-1. **Introduction to Python** 🐍
+1. **Introduction to Python** 📚
    - What is Python?
    - History of Python
    - Why Python is popular
@@ -15,7 +15,7 @@ Welcome to Day 1 of Python Level 1! Today, we will cover the basics of Python pr
    - Setting up a Python development environment
    - Writing and running your first Python script
 
-3. **Basic Syntax and Operations** 🔢
+3. **Basic Syntax and Operations** 🛠️
    - Python syntax
    - Variables and data types
    - Basic operations (arithmetic, comparison, logical)
@@ -53,13 +53,13 @@ Feel free to explore these resources to deepen your understanding of Python prog
 
 <div dir="rtl">
 
-# اليوم الأول: مقدمة في برمجة بايثون 📘
+# اليوم الأول: مقدمة في برمجة بايثون 📚
 
 مرحبًا بكم في اليوم الأول من المستوى الأول لبايثون! اليوم، سنغطي أساسيات برمجة بايثون. تم تصميم هذا الدرس لتعريفكم بالمفاهيم الأساسية لبايثون والبدء في كتابة برامجكم الأولى باستخدام بايثون.
 
 ## مخطط الدرس 🗒️
 
-### 1. **مقدمة في بايثون** 🐍
+### 1. **مقدمة في بايثون** 📚
    - ما هي بايثون؟
    - تاريخ بايثون
    - لماذا بايثون شائعة
@@ -70,7 +70,7 @@ Feel free to explore these resources to deepen your understanding of Python prog
    - إعداد بيئة تطوير بايثون
    - كتابة وتشغيل أول برنامج بايثون
 
-### 3. **البنية الأساسية والعمليات** 🔢
+### 3. **البنية الأساسية والعمليات** 🛠️
    - بنية بايثون
    - المتغيرات وأنواع البيانات
    - العمليات الأساسية (الحسابية، المقارنة، المنطقية)
