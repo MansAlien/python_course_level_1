@@ -1,0 +1,39 @@
+### Day 1 Quiz: Introduction to Python Programming
+
+#### True/False Questions
+1. Python is a high-level programming language. (True/False)
+2. Python is a compiled language. (True/False)
+3. Python is known for its complexity and difficulty to learn. (True/False)
+4. Python can be used for web development. (True/False)
+5. Python is not suitable for data analysis. (True/False)
+
+#### Multiple Choice Questions
+6. Who created Python?
+   a) James Gosling
+   b) Guido van Rossum
+   c) Dennis Ritchie
+   d) Bjarne Stroustrup
+
+7. Which of the following is a feature of Python?
+   a) Low-level language
+   b) Complex syntax
+   c) Easy to learn
+   d) Limited libraries
+
+8. Python is commonly used in which of the following fields?
+   a) Web development
+   b) Data analysis
+   c) Artificial intelligence
+   d) All of the above
+
+9. What is the file extension for Python files?
+   a) .java
+   b) .py
+   c) .cpp
+   d) .js
+
+10. Which statement is used to output text in Python?
+    a) echo
+    b) printf
+    c) print
+    d) console.log
