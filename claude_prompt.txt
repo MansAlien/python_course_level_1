@@ -1,0 +1,47 @@
+# Prompt: Generate Styled HTML Document for Python Course Content
+
+Using the provided text file content, create an HTML document for a Python course lesson. The document should have a dark theme and be styled for both web viewing and PDF export. Follow these specifications:
+
+1. Document Structure:
+   - Use HTML5 doctype and structure
+   - Set the language to English
+   - Include a responsive viewport meta tag
+
+2. Styling:
+   - Use internal CSS (within a <style> tag)
+   - Dark theme: Background #1a202c, Text #e2e8f0
+   - Main container: Max width 800px, centered
+   - Sections: Background #2d3748, rounded corners (8px), box shadow
+   - Headings: H1 (Purple #9f7aea), H2 (Pink #ed64a6), H3 (Light purple #b794f4)
+   - Use a sans-serif font, preferably Arial
+   - Make the layout responsive (adjust for mobile devices)
+
+3. Content Structure:
+   a. Title: Extract the day number from the file name (e.g., "Python Course - Day 003") and include a Python icon
+   b. For each main section (indicated by ===):
+      - Create a new <section> element
+      - Use the section title as an h2 heading
+      - Include an appropriate Font Awesome icon before the heading text
+   c. For subsections (indicated by ---):
+      - Use h3 headings
+   d. Convert bullet points to unordered lists
+   e. Format code examples using <pre> tags with a different background color (#4a5568)
+
+4. Icons:
+   - Include Font Awesome for icons (version 6.4.0 from cdnjs)
+   - Use appropriate icons for each section (you can choose based on the content)
+
+5. Print Styling:
+   - Ensure colors are preserved when printing or exporting to PDF
+   - Prevent sections from breaking across pages
+
+6. Additional Features:
+   - Ensure proper spacing and margins for readability
+   - If there's a list of advantages or key points, consider using a grid layout similar to the "Advantages of Comments in Python" section from the previous example
+
+7. Parsing Instructions:
+   - Treat lines starting with '#' as comments or decorative elements, don't include them in the final HTML
+   - Ignore lines that only contain '=======' or '-------'
+   - Convert Markdown-style code blocks (``` or ~~~) to HTML <pre> tags
+
+Remember to make the document accessible and ensure it looks good on both web browsers and when exported to PDF. Adapt the content from the text file to fit this structure, creating a cohesive and visually appealing lesson document.
